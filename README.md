@@ -4,6 +4,10 @@
 ![Analytics](https://img.shields.io/badge/Domain-Data_Analytics_%26_Retail_BI-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
+## 🖥️ Dashboard Preview
+
+![Coffee Sales Analysis Dashboard Preview](assets/dashboard_preview.png)
+
 An interactive, end-to-end **Retail Coffee Sales Analytics Dashboard** built in Microsoft Excel. This analytical tool transforms raw transaction records into strategic business insights, enabling retail managers, store leads, and business analysts to track revenue performance, customer purchasing habits, store location footfall, product category distribution, and peak operational hours.
 
 ---
